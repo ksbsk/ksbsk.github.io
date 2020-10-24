@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xavier Franch | Katarzyna Biesialska</title>
+    <link>https://ksbsk.github.io/author/xavier-franch/</link>
+      <atom:link href="https://ksbsk.github.io/author/xavier-franch/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xavier Franch</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 Katarzyna Biesialska.</copyright><lastBuildDate>Tue, 29 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ksbsk.github.io/images/icon_hu42a5118afc49636e6fda7ce5d4b48056_3366_512x512_fill_lanczos_center_2.png</url>
+      <title>Xavier Franch</title>
+      <link>https://ksbsk.github.io/author/xavier-franch/</link>
+    </image>
+    
+    <item>
+      <title>Big Data Analytics in Agile Software Development: A Systematic Mapping Study</title>
+      <link>https://ksbsk.github.io/publication/ist2020-sms/</link>
+      <pubDate>Tue, 29 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://ksbsk.github.io/publication/ist2020-sms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Requirements Dependency Extraction by Integrating Active Learning with Ontology-Based Retrieval</title>
+      <link>https://ksbsk.github.io/publication/re2020-deps/</link>
+      <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://ksbsk.github.io/publication/re2020-deps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protocol and tools for conducting agile software engineering research in an industrial-academic setting: a preliminary study</title>
+      <link>https://ksbsk.github.io/publication/cesi2018-protocol/</link>
+      <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://ksbsk.github.io/publication/cesi2018-protocol/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marta R. Costa-jussà | Katarzyna Biesialska</title>
+    <link>https://ksbsk.github.io/author/marta-r.-costa-jussa/</link>
+      <atom:link href="https://ksbsk.github.io/author/marta-r.-costa-jussa/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marta R. Costa-jussà</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 Katarzyna Biesialska.</copyright><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ksbsk.github.io/images/icon_hu42a5118afc49636e6fda7ce5d4b48056_3366_512x512_fill_lanczos_center_2.png</url>
+      <title>Marta R. Costa-jussà</title>
+      <link>https://ksbsk.github.io/author/marta-r.-costa-jussa/</link>
+    </image>
+    
+    <item>
+      <title>Continual Lifelong Learning in Natural Language Processing: A Survey</title>
+      <link>https://ksbsk.github.io/publication/coling2020-clinnlp/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://ksbsk.github.io/publication/coling2020-clinnlp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
