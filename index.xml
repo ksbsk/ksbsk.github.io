@@ -46,18 +46,43 @@
     
     <item>
       <title>STEM Careers and Skills of the Future</title>
-      <link>https://ksbsk.github.io/talk/my-talk-name/</link>
+      <link>https://ksbsk.github.io/talk/stem-alliance/</link>
       <pubDate>Mon, 17 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://ksbsk.github.io/talk/my-talk-name/</guid>
+      <guid>https://ksbsk.github.io/talk/stem-alliance/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Protocol and tools for conducting agile software engineering research in an industrial-academic setting: a preliminary study</title>
+      <title>Protocol and Tools for Conducting Agile Software Engineering Research in an Industrial-Academic Setting: A Preliminary Study</title>
       <link>https://ksbsk.github.io/publication/cesi2018-protocol/</link>
       <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
       <guid>https://ksbsk.github.io/publication/cesi2018-protocol/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>https://ksbsk.github.io/news/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0100</pubDate>
+      <guid>https://ksbsk.github.io/news/</guid>
+      <description>
+
+
+
+
+
+
+
+
+&lt;p&gt;&lt;strong&gt;[13/10/2020]&lt;/strong&gt; New paper 📝  on &lt;a href=&#34;https://ksbsk.github.io/publication/ist2020-sms/&#34;&gt;Big Data Analytics in Agile Software Development&lt;/a&gt; published in the &lt;a href=&#34;https://www.sciencedirect.com/journal/information-and-software-technology&#34; target=&#34;_blank&#34;&gt;Information and Software Technology&lt;/a&gt; journal.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[02/10/2020]&lt;/strong&gt; We were invited 📬 to submit an extended version of &lt;a href=&#34;https://ksbsk.github.io/publication/ismis2020-sa/&#34;&gt;our conference paper&lt;/a&gt; to the &lt;a href=&#34;https://www.springer.com/journal/10844&#34; target=&#34;_blank&#34;&gt;Journal of Intelligent Information Systems&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[30/09/2020]&lt;/strong&gt; 🎉 Two papers accepted today 🎊🍾! &lt;a href=&#34;https://ksbsk.github.io/publication/coling2020-clinnlp/&#34;&gt;One&lt;/a&gt; to &lt;a href=&#34;https://coling2020.org&#34; target=&#34;_blank&#34;&gt;COLING 2020&lt;/a&gt; conference (CORE A rank), and the &lt;a href=&#34;https://ksbsk.github.io/publication/ist2020-sms/&#34;&gt;second one&lt;/a&gt; to the &lt;a href=&#34;https://www.sciencedirect.com/journal/information-and-software-technology&#34; target=&#34;_blank&#34;&gt;Information and Software Technology&lt;/a&gt; journal.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[01/07/2020 - 03/07/2020]&lt;/strong&gt; Participated in the &lt;a href=&#34;https://seschool-series.github.io/2020/&#34; target=&#34;_blank&#34;&gt;6th International Summer School on Software Engineering&lt;/a&gt; 🎓, unfortunately only virtually 🏠.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[15/06/2020]&lt;/strong&gt; Our paper on &lt;a href=&#34;https://ksbsk.github.io/publication/ismis2020-sa/&#34;&gt;Sentiment Analysis with Contextual Embeddings and Self-Attention&lt;/a&gt; was nominated for Best Paper Award 🏆 at &lt;a href=&#34;https://ismis.ist.tugraz.at&#34; target=&#34;_blank&#34;&gt;ISMIS 2020&lt;/a&gt; (ranked among the top 6.97% of accepted papers)!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[12/05/2020]&lt;/strong&gt; 🎉 Our paper on &lt;a href=&#34;https://ksbsk.github.io/publication/re2020-deps/&#34;&gt;Requirements Dependency Extraction by Integrating Active Learning with Ontology-Based Retrieval&lt;/a&gt; was accepted at &lt;a href=&#34;https://re20.org&#34; target=&#34;_blank&#34;&gt;RE 2020&lt;/a&gt; (CORE A rank)!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[15/02/2020]&lt;/strong&gt; 🎉 Our paper on &lt;a href=&#34;https://ksbsk.github.io/publication/ismis2020-sa/&#34;&gt;Sentiment Analysis with Contextual Embeddings and Self-Attention&lt;/a&gt; was accepted at &lt;a href=&#34;https://ismis.ist.tugraz.at&#34; target=&#34;_blank&#34;&gt;ISMIS 2020&lt;/a&gt; (Qualis B2 rank)!&lt;/p&gt;
+
+</description>
     </item>
     
   </channel>

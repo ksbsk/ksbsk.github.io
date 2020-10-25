@@ -193,7 +193,7 @@
   </url>
   
   <url>
-    <loc>https://ksbsk.github.io/talk/my-talk-name/</loc>
+    <loc>https://ksbsk.github.io/talk/stem-alliance/</loc>
     <lastmod>2018-12-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -220,6 +220,11 @@
   <url>
     <loc>https://ksbsk.github.io/publication/cesi2018-protocol/</loc>
     <lastmod>2018-05-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ksbsk.github.io/news/</loc>
+    <lastmod>2017-12-01T00:00:00+01:00</lastmod>
   </url>
   
 </urlset>
